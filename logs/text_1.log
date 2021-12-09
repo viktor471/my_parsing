@@ -1,0 +1,157 @@
+[02.12.20  11:35:52.628]  bla-bla ... some text cmd_regex_1 some text  
+[02.12.20  11:35:52.629] some other text 
+[02.12.20  13:15:30.358] some other text 
+[02.12.20  13:18:17.385]  bla-bla ... some text cmd_regex_1 some text  
+[02.12.20  13:18:17.387]  bla-bla ... some text cmd_regex_1 some text  
+[02.12.20  13:18:17.388] some text ... sign_regex_1 another text
+[02.12.20  13:18:17.388]  bla-bla ... some text cmd_regex_1 some text  
+[02.12.20  13:18:17.389] some text ... sign_regex_1 another text
+[01.12.20  11:24:15.649] some other text 
+[24.11.20  14:35:40.642]  bla-bla ... some text cmd_regex_1 some text  
+[24.11.20  14:35:40.643] some text ... sign_regex_1 another text
+[24.11.20  14:35:42.140]  bla-bla ... some text cmd_regex_1 some text  
+[24.11.20  14:35:42.141] some text ... sign_regex_1 another text
+[24.11.20  14:35:43.645]  bla-bla ... some text cmd_regex_1 some text  
+[24.11.20  14:35:43.665] some text ... sign_regex_1 another text
+[23.11.20  14:18:36.025]  bla-bla ... some text cmd_regex_1 some text  
+[23.11.20  14:18:36.026] some text ... sign_regex_1 another text
+[23.11.20  14:18:37.529]  bla-bla ... some text cmd_regex_1 some text  
+[23.11.20  14:18:37.530] some text ... sign_regex_1 another text
+[23.11.20  14:18:39.057]  bla-bla ... some text cmd_regex_1 some text  
+[23.11.20  14:18:39.058] some text ... sign_regex_1 another text
+[01.12.20  10:59:45.857] some other text 
+[01.12.20  11:03:32.085] some other text 
+[01.12.20  11:06:58.991] some other text 
+[20.11.20  13:47:38.838]  bla-bla ... some text cmd_regex_1 some text  
+[20.11.20  13:47:40.480]  bla-bla ... some text cmd_regex_1 some text  
+[20.11.20  13:47:40.481] some text ... sign_regex_1 another text
+[20.11.20  13:47:41.993]  bla-bla ... some text cmd_regex_1 some text  
+[20.11.20  13:47:41.993] some text ... sign_regex_1 another text
+[19.11.20  12:23:22.645]  bla-bla ... some text cmd_regex_1 some text  
+[19.11.20  12:23:24.147]  bla-bla ... some text cmd_regex_1 some text  
+[19.11.20  12:23:24.148] some text ... sign_regex_1 another text
+[19.11.20  12:23:25.658]  bla-bla ... some text cmd_regex_1 some text  
+[19.11.20  12:23:25.659] some text ... sign_regex_1 another text
+[01.12.20  11:44:23.043] some other text 
+[18.11.20  13:40:15.692]  bla-bla ... some text cmd_regex_1 some text  
+[18.11.20  13:40:17.197]  bla-bla ... some text cmd_regex_1 some text  
+[18.11.20  13:40:17.198] some text ... sign_regex_1 another text
+[18.11.20  13:40:18.707]  bla-bla ... some text cmd_regex_1 some text  
+[18.11.20  13:40:18.708] some text ... sign_regex_1 another text
+[18.11.20  11:51:32.921]  bla-bla ... some text cmd_regex_1 some text  
+[18.11.20  11:51:34.687]  bla-bla ... some text cmd_regex_1 some text  
+[18.11.20  11:51:34.688] some text ... sign_regex_1 another text
+[18.11.20  11:51:36.193]  bla-bla ... some text cmd_regex_1 some text  
+[18.11.20  11:51:36.193] some text ... sign_regex_1 another text
+[23.11.20  12:18:27.770]  bla-bla ... some text cmd_regex_1 some text  
+[23.11.20  12:18:29.271]  bla-bla ... some text cmd_regex_1 some text  
+[23.11.20  12:18:29.272] some text ... sign_regex_1 another text
+[23.11.20  12:18:30.784]  bla-bla ... some text cmd_regex_1 some text  
+[23.11.20  12:18:30.784] some text ... sign_regex_1 another text
+[24.11.20  11:48:45.990]  bla-bla ... some text cmd_regex_1 some text  
+[24.11.20  11:48:47.493]  bla-bla ... some text cmd_regex_1 some text  
+[24.11.20  11:48:47.494] some text ... sign_regex_1 another text
+[24.11.20  11:48:49.002]  bla-bla ... some text cmd_regex_1 some text  
+[24.11.20  11:48:49.003] some text ... sign_regex_1 another text
+[25.11.20  11:51:40.600]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  11:51:42.118]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  11:51:42.119] some text ... sign_regex_1 another text
+[25.11.20  11:51:43.649]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  11:51:43.650] some text ... sign_regex_1 another text
+[25.11.20  11:54:18.235]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  11:54:18.236] some text ... sign_regex_1 another text
+[25.11.20  11:54:19.751]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  11:54:19.753] some text ... sign_regex_1 another text
+[25.11.20  11:54:21.266]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  11:54:21.267] some text ... sign_regex_1 another text
+[25.11.20  12:00:16.242]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:00:16.243] some text ... sign_regex_1 another text
+[25.11.20  12:00:17.761]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:00:17.762] some text ... sign_regex_1 another text
+[25.11.20  12:00:19.284]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:00:19.284] some text ... sign_regex_1 another text
+[25.11.20  12:07:36.298]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:07:36.299] some text ... sign_regex_1 another text
+[25.11.20  12:07:37.807]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:07:37.808] some text ... sign_regex_1 another text
+[25.11.20  12:07:39.315]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:07:39.317] some text ... sign_regex_1 another text
+[25.11.20  12:09:27.765]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:09:27.766] some text ... sign_regex_1 another text
+[25.11.20  12:09:29.276]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:09:29.277] some text ... sign_regex_1 another text
+[25.11.20  12:09:30.786]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:09:30.787] some text ... sign_regex_1 another text
+[25.11.20  12:14:28.650]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:14:28.651] some text ... sign_regex_1 another text
+[25.11.20  12:14:30.160]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:14:30.161] some text ... sign_regex_1 another text
+[25.11.20  12:14:31.669]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  12:14:31.670] some text ... sign_regex_1 another text
+[25.11.20  14:39:03.873]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  14:39:05.380]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  14:39:05.381] some text ... sign_regex_1 another text
+[25.11.20  14:39:06.888]  bla-bla ... some text cmd_regex_1 some text  
+[25.11.20  14:39:06.889] some text ... sign_regex_1 another text
+[26.11.20  12:28:55.481]  bla-bla ... some text cmd_regex_1 some text  
+[26.11.20  12:28:56.999]  bla-bla ... some text cmd_regex_1 some text  
+[26.11.20  12:28:57.005] some text ... sign_regex_1 another text
+[26.11.20  12:28:58.513]  bla-bla ... some text cmd_regex_1 some text  
+[26.11.20  12:28:58.514] some text ... sign_regex_1 another text
+[19.11.20  14:17:25.931]  bla-bla ... some text cmd_regex_1 some text  
+[19.11.20  14:17:27.436]  bla-bla ... some text cmd_regex_1 some text  
+[19.11.20  14:17:27.437] some text ... sign_regex_1 another text
+[19.11.20  14:17:28.946]  bla-bla ... some text cmd_regex_1 some text  
+[19.11.20  14:17:28.947] some text ... sign_regex_1 another text
+[17.11.20  12:05:55.718]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:05:57.252]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:05:57.263] some text ... sign_regex_1 another text
+[17.11.20  12:05:58.759]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:05:58.789] some text ... sign_regex_1 another text
+[17.11.20  12:28:42.938]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:28:44.447]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:28:44.448] some text ... sign_regex_1 another text
+[17.11.20  12:28:45.971]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:28:45.974] some text ... sign_regex_1 another text
+[17.11.20  12:51:44.484]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:51:45.987]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:51:45.989] some text ... sign_regex_1 another text
+[17.11.20  12:51:47.503]  bla-bla ... some text cmd_regex_1 some text  
+[17.11.20  12:51:47.504] some text ... sign_regex_1 another text
+[16.11.20  12:06:21.088] some other text 
+[16.11.20  12:09:43.039] some other text 
+[16.11.20  12:49:44.590] some other text 
+[16.11.20  12:50:31.503] some other text 
+[16.11.20  12:51:45.527]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  12:51:45.529]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  12:51:45.529] some text ... sign_regex_1 another text
+[16.11.20  12:51:45.531]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  12:51:45.531] some text ... sign_regex_1 another text
+[11.11.20  13:29:06.478] some other text 
+[11.11.20  13:31:12.496]  bla-bla ... some text cmd_regex_1 some text  
+[11.11.20  13:31:12.497]  bla-bla ... some text cmd_regex_1 some text  
+[11.11.20  13:31:12.497] some text ... sign_regex_1 another text
+[11.11.20  13:31:12.499]  bla-bla ... some text cmd_regex_1 some text  
+[11.11.20  13:31:12.500] some text ... sign_regex_1 another text
+[11.11.20  13:39:21.098] some other text 
+[11.11.20  14:02:22.470] some other text 
+[11.11.20  14:03:46.488]  bla-bla ... some text cmd_regex_1 some text  
+[11.11.20  14:03:46.489]  bla-bla ... some text cmd_regex_1 some text  
+[11.11.20  14:03:46.490] some text ... sign_regex_1 another text
+[11.11.20  14:03:46.491]  bla-bla ... some text cmd_regex_1 some text  
+[11.11.20  14:03:46.491] some text ... sign_regex_1 another text
+[16.11.20  10:15:54.155] some other text 
+[16.11.20  10:18:27.886] some other text 
+[16.11.20  11:01:09.709] some other text 
+[16.11.20  11:03:15.737]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  11:03:15.739]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  11:03:15.740] some text ... sign_regex_1 another text
+[16.11.20  11:03:15.741]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  11:03:15.742] some text ... sign_regex_1 another text
+[16.11.20  13:54:58.972] some other text 
+[16.11.20  13:56:34.344] some other text 
+[16.11.20  13:57:53.629]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  13:57:53.629]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  13:57:53.631] some text ... sign_regex_1 another text
+[16.11.20  13:57:53.632]  bla-bla ... some text cmd_regex_1 some text  
+[16.11.20  13:57:53.632] some text ... sign_regex_1 another text

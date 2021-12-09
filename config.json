@@ -1,0 +1,51 @@
+{
+    "folder": "logs",
+    "pairs": [
+        ["signal_1",      "command_1" ],
+        ["signal_2",      "command_2" ],
+        ["signal_3",      "command_3" ],
+        ["signal_4",      "command_4" ],
+		    ["signal_5", 		  "command_5" ],
+		    ["signal_6", 		  "command_6" ],
+		    ["signal_7", 		  "command_7" ],
+		    ["signal_8", 		  "command_8" ],
+		    ["signal_9", 		  "command_9" ],
+		    ["signal_10", 		"command_10"],
+		    ["signal_11", 		"command_11"],
+		    ["signal_12", 		"command_12"],
+		    ["signal_13", 		"command_13"]
+    ],
+
+    "commands": {
+        "command_1":  "cmd_regex_1",
+        "command_2":  "cmd_regex_2",
+        "command_3":  "cmd_regex_3",
+        "command_4":  "cmd_regex_4",
+        "command_5":  "cmd_regex_5",
+        "command_6":  "cmd_regex_6",
+        "command_7":  "cmd_regex_7",
+        "command_8":  "cmd_regex_8",
+        "command_9":  "cmd_regex_9",
+        "command_10": "cmd_regex_10",
+        "command_11": "cmd_regex_11",
+        "command_12": "cmd_regex_12",
+        "command_13": "cmd_regex_13"
+    },
+
+    "signals": {
+        "signal_1":  "sign_regex_1",
+        "signal_2":  "sign_regex_2",
+        "signal_3":  "sign_regex_3",
+        "signal_4":  "sign_regex_4",
+        "signal_5":  "sign_regex_5",
+        "signal_6":  "sign_regex_6",
+        "signal_7":  "sign_regex_7",
+        "signal_8":  "sign_regex_8",
+        "signal_9":  "sign_regex_9",
+        "signal_10": "sign_regex_10",
+        "signal_11": "sign_regex_11",
+        "signal_12": "sign_regex_12",
+        "signal_13": "sign_regex_13"
+    }
+}
+

@@ -1,0 +1,12 @@
+.idea/
+venv
+deb_*
+*.debug
+__pycache__
+*.patch
+*.orig
+*.swp
+debug
+output
+additional/
+*.pyproject.user*

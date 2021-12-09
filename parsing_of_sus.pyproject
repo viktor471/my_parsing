@@ -1,0 +1,3 @@
+{
+    "files": ["widget.py","form.ui","parsing.py","ctrl.py","deltas.py","debug.py","work_with_files.py","main.py","check_distribution.py"]
+}
